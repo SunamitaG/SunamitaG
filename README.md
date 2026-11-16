@@ -4,15 +4,15 @@
 
 ## Olá, mundo! ☕
 
-Sou estudante de Engenharia de Software e profissional de tecnologia. Estou construindo minha jornada no desenvolvimento de software, unindo a prática diária na faculdade com a experiência prática do dia a dia.
+Sou estudante do **3º semestre de Engenharia de Software** e profissional de tecnologia. Estou construindo minha jornada no desenvolvimento de software, unindo a base teórica da faculdade com a experiência prática do dia a dia.
 
 ---
 
 ## 💻 Sobre mim
 
-* 🎓 **Formação:** Engenharia de Software — UNINTER.
+* 🎓 **Formação:** Bacharelado em Engenharia de Software — UNINTER.
 * 💡 **Área de atuação:** Experiência em suporte técnico, atendimento e tecnologia.
-* 🌱 **Atualmente:** Focada em aprofundar conhecimentos em lógica, bancos de dados, TypeScript e desenvolvimento front-end.
+* 🌱 **Atualmente:** Focada em aprofundar conhecimentos em **Python, Inteligência Artificial (IA) e Machine Learning (ML)**, além de bancos de dados e desenvolvimento front-end.
 * 🎯 **Objetivo:** Construir soluções eficientes e evoluir constantemente na carreira tech.
 
 ---
@@ -20,7 +20,7 @@ Sou estudante de Engenharia de Software e profissional de tecnologia. Estou cons
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode" />
 </div>
 
 ---
@@ -35,11 +35,12 @@ Sou estudante de Engenharia de Software e profissional de tecnologia. Estou cons
 ## 📬 Conecte-se comigo
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/sunamita-gomes-3796ab1a0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  &nbsp;
+  <a href="mailto:sunamitagomes01@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>
 
