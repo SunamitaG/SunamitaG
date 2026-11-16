@@ -45,4 +45,8 @@ Sou estudante do **3º semestre de Engenharia de Software** e profissional de te
 </div>
 
 <br>
+
+📧 **E-mail para contato:** `sunamitagomes01@gmail.com`
+
+<br>
 <p align="center"><i>"Aprender, desenvolver e evoluir. Construindo o futuro com pequenos passos. ♡"</i></p>
