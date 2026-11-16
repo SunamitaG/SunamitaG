@@ -38,10 +38,6 @@ Sou estudante do **3º semestre de Engenharia de Software** e profissional de te
   <a href="https://www.linkedin.com/in/sunamita-gomes-3796ab1a0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  &nbsp;
-  <a href="mailto:sunamitagomes01@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
 </div>
 
 <br>
